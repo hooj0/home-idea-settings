@@ -1,0 +1,78 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-06-18T15:20:04</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.5.0.0</property>
+    <property name="modified">2018-06-26T20:28:54</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="BASH.BACKQUOTE">
+      <value>
+        <option name="FOREGROUND" value="42c54d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.CONDITIONAL">
+      <value>
+        <option name="FOREGROUND" value="d72c22" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC_END">
+      <value>
+        <option name="FOREGROUND" value="13a2a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC_START">
+      <value>
+        <option name="FOREGROUND" value="13a2a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="6374e8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="c65299" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE">
+      <value>
+        <option name="FOREGROUND" value="c6239c" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="74bfb0" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c63319" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9f24ea" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="19b80a" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="7b23bb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
